@@ -16,4 +16,4 @@
 - user feedback
 - external api support (firecrawl, duckduckgo)
 - knowledge base - a vector db that we can use to store new knowledge which is not part of LLM knowledge and can be retrieved when required. Refer phi data's rag_agent
-- multi agent capabilities - this will be only task handover and interaction between agents. Easier to mention what agent can use which tools.
+- multi agent capabilities - this will be only task handover and NOT interaction between agents. Easier to mention what agent can use which tools and specific knowledge base.
