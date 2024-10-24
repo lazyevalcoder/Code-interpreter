@@ -1,0 +1,19 @@
+- Ability to change models/client details at ease
+- auto generate system prompt based on task
+- create/modify/delete files for summary
+- create/modify/delete files for other use cases
+- read external files
+- execute code and diagnose errors
+- simple docker container_name/none for docker sandbox execution 
+- easy tool creations and integrations.
+- memory for context
+- session management
+- ReAct (reason and act) planner
+- task decomposer and manager
+- max tries input option for code execution or any other loops
+- some mechanism for transfer of tasks and orchestration
+- error handling
+- user feedback
+- external api support (firecrawl, duckduckgo)
+- knowledge base - a vector db that we can use to store new knowledge which is not part of LLM knowledge and can be retrieved when required. Refer phi data's rag_agent
+- multi agent capabilities - this will be only task handover and interaction between agents. Easier to mention what agent can use which tools.
